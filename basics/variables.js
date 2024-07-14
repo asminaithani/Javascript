@@ -4,7 +4,7 @@ var accountPass = "@gdjw"
 accountCity = "Jaipur"
 
 
-// accountId = 74 // not allowed\
+// accountId = 74 // not allowed//
 
 /*prefered not to use var 
 issue in block scope and functional scope*/
