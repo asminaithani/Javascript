@@ -43,12 +43,17 @@ console.log(typeof myFunction);
 let ogName = "asminaithani";
 let otherName = ogName;
 otherName="naithaniasmi";
-console.log(ogName);
-console.log(otherName);
+//console.log(ogName);
+//console.log(otherName);
 
 
-//he
+//heap
 let user1 = {
-    id: asmi@naithani,
-    upiId: asminaithani4,
+    id: "asmidotnaithani",
+    upiId: "asminaithani4",
 }
+
+let user2 = user1
+user2.id = "asmi@naithani"
+console.log(user1);
+console.log(user2);
