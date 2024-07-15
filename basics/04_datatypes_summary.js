@@ -35,3 +35,20 @@ console.log(typeof myFunction);
 // Arrays  =>  object
 // Function  =>  function
 // Object  =>  object
+
+
+
+// stack(primitive), memory(non-primitive)
+//stack
+let ogName = "asminaithani";
+let otherName = ogName;
+otherName="naithaniasmi";
+console.log(ogName);
+console.log(otherName);
+
+
+//he
+let user1 = {
+    id: asmi@naithani,
+    upiId: asminaithani4,
+}
